@@ -7,7 +7,7 @@ def my_hash
 end
 
 def pioneer
-  { lead_singer: "Grace Hopper"}
+  { lead_singer: 'Grace Hopper'}
 end
 
 
